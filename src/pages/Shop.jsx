@@ -72,7 +72,7 @@ const Shop = () => {
                 The<br />Originals
               </h2>
               <div className="mt-12 flex items-center gap-4 text-white text-sm tracking-widest">
-                <span>SCROLL RIGHT</span>
+                <span>SCROLL DOWN</span>
                 <div className="w-12 h-[1px] bg-white"></div>
               </div>
             </div>
@@ -113,7 +113,7 @@ const Shop = () => {
               </h2>
               <div className="mt-12 flex items-center justify-end gap-4 text-white text-sm tracking-widest">
                 <div className="w-12 h-[1px] bg-white"></div>
-                <span>SCROLL LEFT</span>
+                <span>SCROLL DOWN</span>
               </div>
             </div>
           </div>
